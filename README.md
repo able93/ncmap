@@ -4,23 +4,21 @@ Introduction
 
 ncmap is a visualization tool for single and multiple NetCDF files containing earth data. It can be used to make plots including surface views, zoom plots, line or profile plots and animations from NetCDF files. It also accomodates multiple NetCDF files for simultaneous visualization, profile plots, and animations.
 
-DOWNLOAD AND INSTALLATION
+Download 
 
 ncmap 1.0 can be downloaded for Windows, and the executable file on:
 
-[maprams](https://maprams.wixsite.com/maprams/) or
-
-[ncmap](https://drive.google.com/file/d/1gjuJnSDRTyrQ3oIMUqDZbh0cLO9BYKWQ/view?usp=drive_link)
+[maprams](https://maprams.wixsite.com/maprams/) or [ncmap](https://drive.google.com/file/d/1gjuJnSDRTyrQ3oIMUqDZbh0cLO9BYKWQ/view?usp=drive_link)
 
 Installation
 
 The installation is straightforward. After the executable file is downloaded, the user can right-click and run as administrator or double-click the executable file and allow the application to be installed on the desktop. After a successful installation, the application can be opened from Windows Start.
 
-ERRORS
+Errors
 
 All errors generated can be documented and forwarded to the developer through email (abrahamabiola3@gmail.com). The errors would be fixed as soon as possible. The users should also look out for subsequent versions that would be released, as they would have addressed bugs and better interfaces for users and other added functions.
 
-HOW TO USE
+How to use
 
 The user should select if it is a single or multiple file for proper analysis of the files. The user is expected to upload the NetCDF file or multiple files on the Multi-D plot tab.
 
