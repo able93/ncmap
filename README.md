@@ -13,15 +13,17 @@ Maprams 1.0 can be downloaded for Windows. Maprams can be downloaded as executab
 
 https://maprams.wixsite.com/maprams/
 
-[or it can be used online on:
+or it can be used online on:
 
-https://ablelin.shinyapps.io/maprams/](https://drive.google.com/file/d/1gjuJnSDRTyrQ3oIMUqDZbh0cLO9BYKWQ/view?usp=drive_link)
+https://drive.google.com/file/d/1gjuJnSDRTyrQ3oIMUqDZbh0cLO9BYKWQ/view?usp=drive_link
+
+ncmap
 
 The installation is straightforward. After the executable file is downloaded, the user can right-click and run as administrator or double-click the executable file and allow the application to be installed on the desktop. After a successful installation, the application can be opened from Windows Start.
 
 ERRORS
 
-The user is advised not to tamper with the installation files to avoid errors or application crashes. All errors generated can be documented and forwarded to the developer through email (abrahamabiola3@gmail.com). The errors would be fixed as soon as possible. The users should also look out for subsequent versions that would be released, as they would have addressed bugs and better interfaces for users and other added functions.
+All errors generated can be documented and forwarded to the developer through email (abrahamabiola3@gmail.com). The errors would be fixed as soon as possible. The users should also look out for subsequent versions that would be released, as they would have addressed bugs and better interfaces for users and other added functions.
 
 HOW TO USE
 
