@@ -22,10 +22,9 @@ How to use
 
 The user should select if it is a single or multiple file for proper analysis of the files. The user is expected to upload the NetCDF file or multiple files on the Multi-D plot tab.
 
-CONTACT
+Contact
 
 ncmap was developed by Abiola Adebiyi, a Ph.D. student at Florida Atlantic University, USA. Bugs and recommendations can be forwarded to him at abrahamabiola3@gmail.com.
 
-ACKNOWLEDGMENTS
-
+Acknowledgment
 ncmap is majorly built on Matlab Application tool.
