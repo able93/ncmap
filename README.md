@@ -1,9 +1,10 @@
 # ncmap
 
 Introduction
-<img width="1123" height="438" alt="image" src="https://github.com/user-attachments/assets/3b010f7b-fafd-4337-9bdb-ae33fba9bbe9" />
 
 ncmap is a visualization tool for single and multiple NetCDF files containing earth data. It can be used to make plots including surface views, zoom plots, line or profile plots and animations from NetCDF files. It also accomodates multiple NetCDF files for simultaneous visualization, profile plots, and animations.
+
+<img width="1123" height="438" alt="image" src="https://github.com/user-attachments/assets/3b010f7b-fafd-4337-9bdb-ae33fba9bbe9" />
 
 Download 
 
