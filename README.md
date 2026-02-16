@@ -10,6 +10,8 @@ Download
 
 ncmap 1.0 can be downloaded for Windows, and the executable file on: [ncmap](https://drive.google.com/file/d/1PlgEWM3EM16GjFrUd0IiVno6uHUHnOFm/view?usp=drive_link) or [maprams](https://maprams.wixsite.com/maprams/)
 
+If you have ncmap installed on your system, you can just download the latest update here: [ncmap](https://drive.google.com/file/d/1NaBL5rQknkyVkeDIoXrMYN2HYjOChx5K/view?usp=drive_link)
+
 Installation
 
 The installation is straightforward. After the executable file is downloaded, the user can right-click and run as administrator or double-click the executable file and allow the application to be installed on the desktop. After a successful installation, the application can be opened from Windows Start.
