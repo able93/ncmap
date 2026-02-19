@@ -29,4 +29,5 @@ Contact
 ncmap was developed by Abiola Adebiyi, a Ph.D. student at Florida Atlantic University, USA. Bugs and recommendations can be forwarded to him at abrahamabiola3@gmail.com.
 
 Acknowledgment
+
 ncmap is majorly built on Matlab Application tool.
