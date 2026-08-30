@@ -8,7 +8,7 @@ ncmap is a visualization tool for single and multiple NetCDF files containing ea
 
 Download 
 
-ncmap 1.0 can be downloaded for Windows, and the executable file on: [ncmap](https://drive.google.com/file/d/1NVtlnYzc4F2adtwvNIJnyKWv18nMpT9i/view?usp=sharing) or [maprams](https://maprams.wixsite.com/maprams/)
+ncmap 1.10 can be downloaded for Windows, and the executable file on: [ncmap](https://drive.google.com/file/d/1DZB8I7nBCcrI6uJQLsfPG31R-PErOWAa/view?usp=sharing) or [maprams](https://maprams.wixsite.com/maprams/)
 
 If you have ncmap installed on your system, you can just download the latest update here: [ncmap](https://drive.google.com/file/d/146hKNTonhfhe5hm3_EueJJAWiPDfMdKG/view?usp=drive_link)
 
